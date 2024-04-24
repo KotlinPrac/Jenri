@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1030691131764",
+    "project_id": "jenri-dd0fb",
+    "storage_bucket": "jenri-dd0fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030691131764:android:8ff07de6b137cfbb235c21",
+        "android_client_info": {
+          "package_name": "com.example.jenri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKDzE6wIsNVJoZJ4Si29BVp6nGFto-k1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
